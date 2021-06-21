@@ -4,9 +4,9 @@ A simple Discord Webhook message/embed maker using python.
 
                     >>>>>>>>>     READ THIS    <<<<<<<<<<
 
-Please use this with care as webhooks are capable of doing the @everyone,@here and all role ping. 
-Adding a for/while loop in the main function can result in spamming . <br/>
-A webhook can use Custom(normal/animated) emotes but you have to provide the emote id for example : <:vSuccess:845197262309425192> 
+・Please use this with care as webhooks are capable of doing the @everyone,@here and all role ping. <br/>
+・Adding a for/while loop in the main function can result in spamming . <br/>
+・You can enter custom emotes by their id for example : <:vSuccess:845197262309425192> 
 
 
 [Click here to know More](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)<br/>
