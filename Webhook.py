@@ -3,7 +3,6 @@ import requests        #requirement if you don't have this module just open cmd 
 
 
 
-
 def main():     
     url = input("Enter Webhook Url : ")           #IMPORTANT!!!  For example = https://discord.com/api/webhooks/webhook_id/webhook_token
     username = input("Enter Webhook username : ")   #The name to display on current message (you can leave this blank if you want)
