@@ -9,10 +9,13 @@ def main():
     picture = input("Enter Webhook Avatar Url : ")                        #Update avatar on current webhook message(you can leave this blank as well)
     message = input("Enter the message you want to send : ")              
     data = {"content":message,"username":username,"avatar_url":picture}   #main data to be stored as variable
-    r = requests.post(url,data=data) #sending the message 
-    if r.status_code == 204:     #Status Code shown when request was completed.
+    r = requests.post(url,data=data)                                      #sending the message 
+    if r.status_code == 204:                                              #Status Code shown when request was completed.
         print("Message Sent Successfully !")
     else :
         print("Message Not Sent")
 
+        
+        
+        
 main()   #calling the function
