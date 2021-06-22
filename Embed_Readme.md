@@ -35,4 +35,4 @@ you can add another key value pair in the current "data" dictionary or you can m
       
 "thumbnail":{"url":"emter url for the small image on top right corner of embed"},<br/>
 "image":{"url":"enter url for the large image on the embed"},<br/>
-"footer":{"text":"Cute Footer","icon_url":"emter url for the bottom left small image on the embed"}<br/>
+"footer":{"text":"Cute Footer","icon_url":"enter url for the bottom left small image on the embed"}<br/>
