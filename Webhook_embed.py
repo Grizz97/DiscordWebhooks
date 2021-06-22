@@ -18,7 +18,7 @@ def main():
                     "icon_url":"https://cdn.discordapp.com/attachments/798172513799634975/846278305019592794/Screenshot_20210524-014736.jpg"
                     },
                     "title":"This is a test Title",
-                    "url":"https://gist.github.com/Birdie0/78ee79402a4301b1faf412ab5f1cdcf9",
+                    "url":"https://github.com/SenseiQt07/DiscordWebhooks/edit/main/Webhook_embed.py",
                     "description":"**This is a Test Description**",
                     "color":0x00fefe,
                     "thumbnail":{"url":"https://cdn.discordapp.com/attachments/798172513799634975/846278241778139146/Screenshot_20210524-014627.jpg"},
