@@ -11,7 +11,7 @@ def main():
     data = {"content":message,"username":username,"avatar_url":picture}   
     r = requests.post(url,data=data)                                 
     if r.status_code == 204:                                        
-        print("Message Sent Successfully !")
+        print("Message Sent Successfully ! 👌")
     else :
         print("Message Not Sent")
 
