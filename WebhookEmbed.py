@@ -11,6 +11,9 @@ def Webhook():
         "username":username,
         "avatar_url": picture,
         "content":message,
+        "allowed_mentions":{
+            "parse": ["users","roles"]
+        },
         "embeds":[{
             "author" : {
                 "name" : "Sensei.exe#7309",
