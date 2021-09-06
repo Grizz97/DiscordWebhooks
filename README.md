@@ -3,7 +3,6 @@ A simple Discord Webhook message/embed maker using python
 </br>
 </br>
 * If you've got a knack for JSON application-building or HTTP POST requests and want to customize your own webhooks, you can dig up some more information in discord's [`developer docs`](https://discord.com/developers/docs/resources/webhook).
-* 
 * Please use this with care as webhooks are capable of doing the @everyone,@here and all role ping even **ON LOOP** until you control it with 
   * `allowed_mentions` <br/>
   *  `users`, `roles` , `everyone`
