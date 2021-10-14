@@ -12,7 +12,6 @@ A simple Discord Webhook message/embed maker using python
 * Beautify your messages with [**`discord markdowns`**](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-).
 * We can also use embeds in webhooks , check the [**`WebhookEmbed.py`**](https://github.com/SenseiQt07/DiscordWebhooks/blob/main/WebhookEmbed.py) file in this repository.
 * Webhooks can use animated emotes from the same server as the webhook itself but they can't have an animated profile picture.
-* All of them have 0000 discriminator.
 * Thats all i guess...
 * A simple webhook message can be send like this as shown below : 
 ```py
